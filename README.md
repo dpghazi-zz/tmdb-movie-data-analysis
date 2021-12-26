@@ -8,4 +8,3 @@ This data set contains information about 10,000 movies collected from The Movie 
   - Conclusions
 - Key Concepts
   - pandas, Numpy, and Matplotlib data analysis 
-  - Python and Jupyter Notebook

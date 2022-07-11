@@ -1,4 +1,4 @@
-# TMDb-Movie-Data-Analysis
+# TMDb Movie Data Analysis
 # [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://dpghazi.github.io/projects/tmdb-movie-analysis.html)
 
 ## Project Description
